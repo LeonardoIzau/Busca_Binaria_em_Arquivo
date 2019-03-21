@@ -28,7 +28,7 @@ int main(int argc, char**argv)
 		return 1;
 	}
 	f = fopen("cep_ordenado.dat","r");                             //abre arquivo
-    fseek(f,0,SEEK_END);
+        fseek(f,0,SEEK_END);
 	posicao = ftell(f);
 	rewind(f);
 
