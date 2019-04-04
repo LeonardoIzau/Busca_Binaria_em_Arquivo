@@ -1,3 +1,4 @@
+//Código escrito em colaboração por Leonardo Izaú e Mariana Fortes.
 #include <stdio.h>
 #include <string.h>
 #include <locale.h>                                                      //para imprimir os endereços com acento
